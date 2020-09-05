@@ -11,6 +11,7 @@
 
   ppdoooog@163.com
   
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=ppdog0&show_icons=true&theme=dark)
 
 
 <!--
