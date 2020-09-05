@@ -1,9 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...
 
-  java ee backend
+  [java ee backend](https://github.com/ppdog0/java-ee-project)
   
-  python flask backend
+  [python flask backend](https://github.com/NeilKleistGao/cloud-forest)
   
   [build blog](https://ppdog0.github.io/index)
   
