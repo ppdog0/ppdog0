@@ -5,7 +5,7 @@
   
   python flask backend
   
-  [build blog](ppdog0.github.io)
+  [build blog](https://ppdog0.github.io/index)
   
 - 📫 How to reach me: ...
 
