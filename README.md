@@ -1,4 +1,17 @@
 ### Hi there 👋
+- 🔭 I’m currently working on ...
+
+  java ee backend
+  
+  python flask backend
+  
+  build blog
+  
+- 📫 How to reach me: ...
+
+  ppdoooog@163.com
+  
+
 
 <!--
 **ppdog0/ppdog0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
