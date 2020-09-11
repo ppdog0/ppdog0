@@ -1,15 +1,19 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...
-
-  [java ee backend](https://github.com/ppdog0/java-ee-project)
   
   [python flask backend](https://github.com/NeilKleistGao/cloud-forest)
   
   [build blog](https://ppdog0.github.io/index)
   
-- 📫 How to reach me: ...
+  
+- 📫 How to reach me: ppdoooog@163.com
 
-  ppdoooog@163.com
+
+- 🚄 project: ...
+
+  [java ee backend](https://github.com/ppdog0/java-ee-project)
+  
+
   
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=ppdog0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
