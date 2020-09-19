@@ -1,12 +1,15 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...
+
+  learning computer network and compiler
   
   [python flask backend](https://github.com/NeilKleistGao/cloud-forest)
   
-  [build blog](https://ppdog0.github.io/index)
   
   
 - 📫 How to reach me: ppdoooog@163.com
+
+  [blog](https://ppdog0.github.io/index) (lack of content)
 
 
 - 🚄 project: ...
