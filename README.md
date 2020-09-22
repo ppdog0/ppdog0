@@ -9,7 +9,7 @@
   
 - 📫 How to reach me: ppdoooog@163.com
 
-  [blog](https://ppdog0.github.io/index) (lack of content)
+  <!--[blog](https://ppdog0.github.io/index) (lack of content)-->
 
 
 - 🚄 project: ...
