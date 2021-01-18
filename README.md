@@ -1,24 +1,23 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
-
-  learning computer network and compiler
-  
-  [python flask backend](https://github.com/NeilKleistGao/cloud-forest)
-  
-  
+- 🔭 I’m currently working on UNP and Database
   
 - 📫 How to reach me: ppdoooog@163.com
 
+- 🚄 project:
+
+  [A Simple 2D physical engine](https://github.com/bupt-juniorTeam/Case2D-lite-with-Csharp)
+
+  [A Compiler](https://github.com/bupt-juniorTeam/compiler)
+
   <!--[blog](https://ppdog0.github.io/index) (lack of content)-->
-
-
-- 🚄 project: ...
-
+  
+<!--
   [java ee backend](https://github.com/ppdog0/java-ee-project)
-  
-
-  
+    [python flask backend](https://github.com/NeilKleistGao/cloud-forest)
+-->
+  <!--
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=ppdog0)
+-->
 
 
 <!--
