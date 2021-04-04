@@ -11,6 +11,9 @@
   
   
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
   <!--[blog](https://ppdog0.github.io/index) (lack of content)-->
