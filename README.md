@@ -12,9 +12,10 @@
   
 <!--START_SECTION:waka-->
 ```text
-Java                       1 hr 57 mins    █████████████████▒░░░░░░░   69.33 % 
-Nginx configuration file   30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Other                      21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Java                       5 hrs 49 mins   ████████████████████▒░░░░   81.34 % 
+Nginx configuration file   57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Other                      21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+HTML                       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 <!--END_SECTION:waka-->
 
