@@ -1,5 +1,13 @@
 ### Hi there 👋
-- 🔭 I’m currently working on UNP and Database
+
+working...
+
+- [os from 0-1](https://github.com/tuhdo/os01)
+- computer architecture(csapp)
+- database(Designing data-intensive applications)
+- go(The Go Programming Language)
+
+<!-- - 🔭 I’m currently working on UNP and Database
   
 - 📫 How to reach me: ppdoooog@163.com
 
@@ -8,7 +16,7 @@
   [A Simple 2D physical engine](https://github.com/bupt-juniorTeam/Case2D-lite-with-Csharp)
 
   [A Compiler](https://github.com/bupt-juniorTeam/compiler)
-  
+   -->
   
 <!--START_SECTION:waka-->
 ```text
