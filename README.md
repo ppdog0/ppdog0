@@ -3,9 +3,9 @@
 working...
 
 - [os from 0-1](https://github.com/tuhdo/os01)
-- computer architecture(csapp)
 - database(Designing data-intensive applications)
 - go(The Go Programming Language)
+- linux(The linux programming interface)
 
 ## a simple guide:
 
