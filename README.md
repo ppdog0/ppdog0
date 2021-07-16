@@ -24,7 +24,12 @@ working...
 - command line
   - [the art of command line](https://github.com/jlevy/the-art-of-command-line)
   - [a simple shell](https://github.com/brenns10/lsh)
+- computer architecture
+  - CSAPP(Computer Systems: A Programmer's Perspective)
+  - Code by Charles Petzold
+  - SICP(Structure and Interpretation of Computer Programs)
 - os
+  - Operating System Concepts by Silberschatz
   - [os from 0 to 1](https://github.com/tuhdo/os01)
   - [mit 6.828](https://github.com/shishujuan/mit6.828-2017)
 - compiler
