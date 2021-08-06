@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 working...
-
-- [os from 0-1](https://github.com/tuhdo/os01)
-- database(Designing data-intensive applications)
-- go(The Go Programming Language)
 - linux(The linux programming interface)
+- python(fluent python)
+- advanced go/c++
 
 ## a simple guide:
 
@@ -25,18 +23,21 @@ working...
   - [the art of command line](https://github.com/jlevy/the-art-of-command-line)
   - [a simple shell](https://github.com/brenns10/lsh)
 - computer architecture
-  - CSAPP(Computer Systems: A Programmer's Perspective)
   - Code by Charles Petzold
+  - CSAPP(Computer Systems: A Programmer's Perspective)
   - SICP(Structure and Interpretation of Computer Programs)
 - os
   - Operating System Concepts by Silberschatz
   - [os from 0 to 1](https://github.com/tuhdo/os01)
   - [mit 6.828](https://github.com/shishujuan/mit6.828-2017)
+  - linux(The linux programming interface)
 - compiler
   - [interpreter](https://github.com/munificent/craftinginterpreters)
   - [8cc](https://github.com/rui314/8cc)
   - [compiler writing journey](https://github.com/DoctorWkt/acwj)
   - [c compiler](https://github.com/nlsandler/write_a_c_compiler)
+- database
+  - overview(Designing data-intensive applications)
 
 <!-- - 🔭 I’m currently working on UNP and Database
   
