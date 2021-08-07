@@ -32,7 +32,6 @@ working...
   - [os from 0 to 1](https://github.com/tuhdo/os01)
   - linux(The linux programming interface)
   - [mit 6.828](https://github.com/shishujuan/mit6.828-2017)
-  - linux(The linux programming interface)
 - compiler
   - [interpreter](https://github.com/munificent/craftinginterpreters)
   - [8cc](https://github.com/rui314/8cc)
