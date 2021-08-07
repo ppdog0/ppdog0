@@ -4,6 +4,7 @@ working...
 - linux(The linux programming interface)
 - python(fluent python)
 - advanced go/c++
+- distributed system
 
 ## a simple guide:
 
@@ -29,6 +30,7 @@ working...
 - os
   - Operating System Concepts by Silberschatz
   - [os from 0 to 1](https://github.com/tuhdo/os01)
+  - linux(The linux programming interface)
   - [mit 6.828](https://github.com/shishujuan/mit6.828-2017)
   - linux(The linux programming interface)
 - compiler
@@ -38,6 +40,7 @@ working...
   - [c compiler](https://github.com/nlsandler/write_a_c_compiler)
 - database
   - overview(Designing data-intensive applications)
+  - [distributed system](https://github.com/theanalyst/awesome-distributed-systems)
 
 <!-- - 🔭 I’m currently working on UNP and Database
   
