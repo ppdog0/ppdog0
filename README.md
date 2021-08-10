@@ -3,8 +3,8 @@
 working...
 - linux(The linux programming interface)
 - python(fluent python)
-- advanced go/c++
-- distributed system
+- advanced go/[c++](https://light-city.club/sc/basic_content/volatile/)
+- [distributed system](https://github.com/theanalyst/awesome-distributed-systems)
 
 ## a simple guide:
 
