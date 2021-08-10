@@ -23,11 +23,11 @@ working...
 - command line
   - [the art of command line](https://github.com/jlevy/the-art-of-command-line)
   - [a simple shell](https://github.com/brenns10/lsh)
-- computer architecture
+- computer architecture ans organization
   - Code by Charles Petzold
   - CSAPP(Computer Systems: A Programmer's Perspective)
   - SICP(Structure and Interpretation of Computer Programs)
-- os
+- operating system
   - Operating System Concepts by Silberschatz
   - [os from 0 to 1](https://github.com/tuhdo/os01)
   - linux(The linux programming interface)
@@ -40,6 +40,10 @@ working...
 - database
   - overview(Designing data-intensive applications)
   - [distributed system](https://github.com/theanalyst/awesome-distributed-systems)
+- program language
+  - c++(c++ primer / effective modern c++)
+  - go(the go programming language)
+  - python(introducing python / fluent python / python data science handbook / deep learning with python) 
 
 <!-- - 🔭 I’m currently working on UNP and Database
   
