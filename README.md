@@ -42,8 +42,9 @@ working...
   - [distributed system](https://github.com/theanalyst/awesome-distributed-systems)
 - program language
   - c++(c++ primer / effective modern c++)
-  - go(the go programming language)
+  - [java](https://github.com/doocs/advanced-java)
   - python(introducing python / fluent python / python data science handbook / deep learning with python) 
+  - go(the go programming language)
 
 <!-- - 🔭 I’m currently working on UNP and Database
   
