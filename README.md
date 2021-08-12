@@ -59,7 +59,8 @@ working...
   
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++    7 mins          ████████████████░░░░░░░░░   63.80 % 
+JSON   4 mins          █████████░░░░░░░░░░░░░░░░   36.20 % 
 ```
 <!--END_SECTION:waka-->
 
