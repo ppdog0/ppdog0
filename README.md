@@ -23,6 +23,7 @@ JSON   4 mins          █████████░░░░░░░░░░
   - [project-based learning](https://github.com/tuvtran/project-based-learning)
 
 ### programming language
+#### imperative
 - compiler
   - c++(c++ primer / effective modern c++)
   - go(the go programming language)
@@ -31,6 +32,9 @@ JSON   4 mins          █████████░░░░░░░░░░
   - javascript/typescript
 - compile-interpret
   - [java](https://github.com/doocs/advanced-java)
+  - C#
+#### declarative
+- SQL
 
 ### computer system
 - computer architecture ans organization
