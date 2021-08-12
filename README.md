@@ -34,11 +34,11 @@ JSON   4 mins          █████████░░░░░░░░░░
 
 ### computer system
 - computer architecture ans organization
-  - Code by Charles Petzold
+  - Code by *Charles Petzold*
   - CSAPP(Computer Systems: A Programmer's Perspective)
   - SICP(Structure and Interpretation of Computer Programs)
 - operating system
-  - Operating System Concepts by Silberschatz
+  - Operating System Concepts by *Silberschatz*
   - [os from 0 to 1](https://github.com/tuhdo/os01)
   - linux(The linux programming interface)
   - [mit 6.828](https://github.com/shishujuan/mit6.828-2017)
@@ -50,6 +50,9 @@ JSON   4 mins          █████████░░░░░░░░░░
 - database
   - overview(Designing data-intensive applications)
   - [distributed system](https://github.com/theanalyst/awesome-distributed-systems)
+- computer network
+  - Computer Networking: A Top-Down Approach by *James F. Kurose / Keith W. Ross*
+  - UNP(Unix Network Programming)
 
 ### other suggestions
 - [github optimization](https://github.com/521xueweihan/GitHub520)
