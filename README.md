@@ -6,23 +6,33 @@ working...
 - advanced go/[c++](https://light-city.club/sc/basic_content/volatile/)
 - [distributed system](https://github.com/theanalyst/awesome-distributed-systems)
 
+<!--START_SECTION:waka-->
+```text
+C++    7 mins          ████████████████░░░░░░░░░   63.80 % 
+JSON   4 mins          █████████░░░░░░░░░░░░░░░░   36.20 % 
+```
+<!--END_SECTION:waka-->
+
 ## a simple guide:
 
-- [github optimization](https://github.com/521xueweihan/GitHub520)
-- [book resource](https://github.com/EbookFoundation/free-programming-books)
+### study guide
 - learning roadmap
   - [frontend and backend](https://github.com/kamranahmedse/developer-roadmap)
   - [AI expert](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
   - [study plan](https://github.com/jwasham/coding-interview-university)
   - [project-based learning](https://github.com/tuvtran/project-based-learning)
-- terminal optimization
-  - [gosh](https://github.com/Mayccoll/Gogh)
-  - [oh my posh](https://github.com/JanDeDobbeleer/oh-my-posh)
-  - [fonts](https://github.com/ryanoasis/nerd-fonts)
-  - [zsh](https://github.com/ohmyzsh/ohmyzsh)
-- command line
-  - [the art of command line](https://github.com/jlevy/the-art-of-command-line)
-  - [a simple shell](https://github.com/brenns10/lsh)
+
+### programming language
+- compiler
+  - c++(c++ primer / effective modern c++)
+  - go(the go programming language)
+- interpreter
+  - python(introducing python / fluent python / python data science handbook / deep learning with python) 
+  - javascript/typescript
+- compile-interpret
+  - [java](https://github.com/doocs/advanced-java)
+
+### computer system
 - computer architecture ans organization
   - Code by Charles Petzold
   - CSAPP(Computer Systems: A Programmer's Perspective)
@@ -40,11 +50,19 @@ working...
 - database
   - overview(Designing data-intensive applications)
   - [distributed system](https://github.com/theanalyst/awesome-distributed-systems)
-- program language
-  - c++(c++ primer / effective modern c++)
-  - [java](https://github.com/doocs/advanced-java)
-  - python(introducing python / fluent python / python data science handbook / deep learning with python) 
-  - go(the go programming language)
+
+### other suggestions
+- [github optimization](https://github.com/521xueweihan/GitHub520)
+- [book resource](https://github.com/EbookFoundation/free-programming-books)
+- terminal optimization
+  - [gosh](https://github.com/Mayccoll/Gogh)
+  - [oh my posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+  - [fonts](https://github.com/ryanoasis/nerd-fonts)
+  - [zsh](https://github.com/ohmyzsh/ohmyzsh)
+- command line
+  - [the art of command line](https://github.com/jlevy/the-art-of-command-line)
+  - [a simple shell](https://github.com/brenns10/lsh)
+
 
 <!-- - 🔭 I’m currently working on UNP and Database
   
@@ -56,13 +74,6 @@ working...
 
   [A Compiler](https://github.com/bupt-juniorTeam/compiler)
    -->
-  
-<!--START_SECTION:waka-->
-```text
-C++    7 mins          ████████████████░░░░░░░░░   63.80 % 
-JSON   4 mins          █████████░░░░░░░░░░░░░░░░   36.20 % 
-```
-<!--END_SECTION:waka-->
 
   <!--[blog](https://ppdog0.github.io/index) (lack of content)-->
   
