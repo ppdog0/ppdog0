@@ -2,6 +2,7 @@
 
 working...
 - advanced go
+- system design
 
 <!--START_SECTION:waka-->
 ```text
@@ -15,11 +16,12 @@ C++           23 mins         ████████████████�
 - learning roadmap
   - [frontend and backend](https://github.com/kamranahmedse/developer-roadmap)
   - [AI expert](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
-  - [study plan](https://github.com/jwasham/coding-interview-university)
-  - [project-based learning](https://github.com/tuvtran/project-based-learning)
+  - [data science](https://github.com/datasciencemasters/go)
+  - [distributed system](https://github.com/theanalyst/awesome-distributed-systems)
+  - [system design](https://github.com/doocs/advanced-java)
 
 ### programming language
-#### imperative
+**imperative**
 - compiler
   - c++(c++ primer / effective modern c++)
   - go(the go programming language)
@@ -27,9 +29,11 @@ C++           23 mins         ████████████████�
   - python(introducing python / fluent python / python data science handbook / deep learning with python) 
   - javascript/typescript
 - compile-interpret
-  - [java](https://github.com/doocs/advanced-java)
+  - [java](https://github.com/Snailclimb/JavaGuide)
   - C#
-#### declarative
+
+
+**declarative**
 - SQL
 
 ### computer system
@@ -55,6 +59,8 @@ C++           23 mins         ████████████████�
   - UNP(Unix Network Programming)
 
 ### other suggestions
+- [study plan](https://github.com/jwasham/coding-interview-university)
+- [project-based learning](https://github.com/tuvtran/project-based-learning)
 - [github optimization](https://github.com/521xueweihan/GitHub520)
 - [book resource](https://github.com/EbookFoundation/free-programming-books)
 - terminal optimization
