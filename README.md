@@ -2,6 +2,7 @@
 
 working...
 - advanced go
+- javascript
 - system design
 
 <!--START_SECTION:waka-->
@@ -27,7 +28,8 @@ C++           23 mins         ████████████████�
   - go(the go programming language)
 - interpreter
   - python(introducing python / fluent python / python data science handbook / deep learning with python) 
-  - javascript/typescript
+  - javascript(Professional JavaScript for Web Developers)
+  - typescript
 - compile-interpret
   - [java](https://github.com/Snailclimb/JavaGuide)
   - C#
