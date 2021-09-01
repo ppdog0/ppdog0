@@ -7,7 +7,8 @@ working...
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C             1 hr 38 mins    █████████████████████▓░░░   86.79 % 
+Objective-C   14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 % 
 ```
 <!--END_SECTION:waka-->
 
