@@ -7,8 +7,8 @@ working...
 
 <!--START_SECTION:waka-->
 ```text
-C             8 hrs 31 mins   ████████████████████████▓   98.98 % 
-Objective-C   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+C             8 hrs 35 mins   █████████████████████████   99.49 % 
+Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 <!--END_SECTION:waka-->
 
