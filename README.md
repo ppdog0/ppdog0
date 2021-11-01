@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 working...
-- advanced go
-- javascript
-- system design
-
+- kubernetes
+- node.js
+- database
 <!--START_SECTION:waka-->
 ```text
 Go   11 mins         █████████████████████████   100.00 % 
