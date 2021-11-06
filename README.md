@@ -6,7 +6,8 @@ working...
 - database
 <!--START_SECTION:waka-->
 ```text
-Go   11 mins         █████████████████████████   100.00 % 
+C++   58 mins         ██████████████████████▓░░   91.07 % 
+Go    5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
 ```
 <!--END_SECTION:waka-->
 
