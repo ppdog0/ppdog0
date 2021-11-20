@@ -2,8 +2,9 @@
 
 working...
 - kubernetes
+- search(elastic search)
 - node.js
-- database
+- database(redis)
 <!--START_SECTION:waka-->
 ```text
 C++    51 mins         ████████████████████░░░░░   79.44 % 
@@ -22,7 +23,6 @@ Java   13 mins         █████░░░░░░░░░░░░░░
   - [system design](https://github.com/doocs/advanced-java)
 
 ### programming language
-**imperative**
 - compiler
   - c++(c++ primer / effective modern c++)
   - go(the go programming language)
@@ -33,10 +33,6 @@ Java   13 mins         █████░░░░░░░░░░░░░░
 - compile-interpret
   - [java](https://github.com/Snailclimb/JavaGuide)
   - C#
-
-
-**declarative**
-- SQL
 
 ### computer system
 - computer architecture ans organization
