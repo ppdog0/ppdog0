@@ -7,8 +7,7 @@ working...
 - database(redis)
 <!--START_SECTION:waka-->
 ```text
-C++    3 mins          ██████████████████▓░░░░░░   74.44 % 
-Java   1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.56 % 
+Java   1 min           ████████████████░░░░░░░░░   63.78 % 
 ```
 <!--END_SECTION:waka-->
 
