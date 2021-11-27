@@ -7,7 +7,7 @@ working...
 - database(redis)
 <!--START_SECTION:waka-->
 ```text
-Java   1 min           ████████████████░░░░░░░░░   63.78 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
