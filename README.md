@@ -7,7 +7,10 @@ working...
 - database(redis)
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++          19 mins         ██████████████████▓░░░░░░   74.71 % 
+JavaScript   3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Text         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Python       1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 ```
 <!--END_SECTION:waka-->
 
