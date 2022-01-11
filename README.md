@@ -23,8 +23,9 @@ No Activity tracked this Week
 
 ### programming language
 - compiler
-  - c++(c++ primer / effective modern c++)
-  - go(the go programming language)
+  - c/c++(C Programming: A Modern Approach / c++ primer / effective modern c++)
+  - go(the go programming language / go语言设计与实现)
+  - rust
 - interpreter
   - python(introducing python / fluent python / python data science handbook / deep learning with python) 
   - javascript(Professional JavaScript for Web Developers)
@@ -49,11 +50,18 @@ No Activity tracked this Week
   - [compiler writing journey](https://github.com/DoctorWkt/acwj)
   - [c compiler](https://github.com/nlsandler/write_a_c_compiler)
 - database
-  - overview(Designing data-intensive applications)
+  - overview(Designing data-intensive applications / streaming systems)
   - [distributed system](https://github.com/theanalyst/awesome-distributed-systems)
+  - [mit6.824](https://pdos.csail.mit.edu/6.824/schedule.html)
+  - mysql/redis/kafka/hbase/spark/mongodb/etcd/rocksdb/gfs
 - computer network
   - Computer Networking: A Top-Down Approach by *James F. Kurose / Keith W. Ross*
   - UNP(Unix Network Programming)
+  - apache server/nginx/node.js
+- cloud
+  - microservice(microservices pattern)
+  - docker(docker 容器与容器云)
+  - kubernetes(kubernetes in action / 深入剖析kubernetes)
 
 ### other suggestions
 - [study plan](https://github.com/jwasham/coding-interview-university)
