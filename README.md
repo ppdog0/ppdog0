@@ -7,7 +7,8 @@ working...
 - database(redis)
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Docker   12 mins         █████████████████████░░░░   83.35 % 
+Go       2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
 ```
 <!--END_SECTION:waka-->
 
