@@ -7,10 +7,9 @@ working...
 - database(redis)
 <!--START_SECTION:waka-->
 ```text
-Total: 21 mins
+Total: 6 mins
 
-Docker   12 mins         ██████████████▓░░░░░░░░░░   58.25 % 
-Go       9 mins          ██████████▒░░░░░░░░░░░░░░   41.75 % 
+Go       6 mins          █████████████████████████   99.81 % 
 ```
 <!--END_SECTION:waka-->
 
