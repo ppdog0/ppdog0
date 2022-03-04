@@ -8,7 +8,8 @@ working...
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go         47 mins         █████████████████████████   99.95 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
