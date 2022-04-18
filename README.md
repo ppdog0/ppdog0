@@ -1,12 +1,3 @@
-### Hi there 👋
-
-working...
-- kubernetes
-- search(elastic search)
-- node.js
-- database(redis)
-<!--START_SECTION:waka-->
-
 ```text
 No activity tracked
 ```
