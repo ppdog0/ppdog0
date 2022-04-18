@@ -8,9 +8,7 @@ working...
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   20 mins         ██████████████████████▓░░   90.83 %
-Vue.js       1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
